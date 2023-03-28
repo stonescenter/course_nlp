@@ -1,2 +1,3 @@
 # course_nlp
-Exemplos de tarefa de sumarizadores.
+Este Notebook contem o calculo para a analise comparativo de sumarizadores do curso de Introdução ao Processamento Natural de Lingua
+
