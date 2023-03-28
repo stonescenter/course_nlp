@@ -1,0 +1,14 @@
+Data engineers often want to break into machine learning to get more money or because they’re bored!
+
+They should learn
+- precision vs recall
+These metrics are critical for evaluating the performance of a machine learning model. Precision is how accurate positive predictions are. Recall is how completely the positive predictions are covered.
+
+- the different types of regression
+Learn about linear regression and its limitations. Learn about logistic regression as well.
+
+- the other types of models such as XGBoost and Random Forest
+
+Dabbling in these areas will make you better at both #machinelearning and #dataengineering since it’ll inform the upstream data modeling!
+
+If you liked this content, follow me on IG at www.instagram.com/EcZachly

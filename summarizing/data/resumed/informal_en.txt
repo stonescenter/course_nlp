@@ -1,0 +1,8 @@
+Data engineers often want to break into machine learning to get more money or because they’re bored!
+
+They should learn
+- precision vs recall
+- the different types of regression
+- the other types of models such as XGBoost and Random Forest
+
+If you liked this content, follow me on IG at www.instagram.com/EcZachly
