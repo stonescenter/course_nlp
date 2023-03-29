@@ -1,0 +1,4 @@
+The article suggests that data engineers can benefit from learning about precision vs recall metrics, various types of regression such as linear and logistic regression, and other models like XGBoost and Random Forest. The author notes that understanding these concepts can improve both machine learning and data engineering skills, as it informs the upstream data modeling. The article concludes by inviting readers to follow the author on Instagram for more content.
+
+
+
